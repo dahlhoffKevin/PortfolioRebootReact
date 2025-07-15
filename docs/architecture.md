@@ -53,3 +53,9 @@ Diese Architektur dient als technisches Fundament für mein neues Portfolio-Proj
 [Admin-UI] --> Supabase (Auth, DB, Storage)
                      ↑
           [Public-UI] (read-only Zugriff via Supabase)
+
+## Container-Diagramm
+
+![Container Diagramm](../diagrams/c4-container.svg)
+
+Dieses Diagramm zeigt die Hauptbestandteile der Applikation und deren Kommunikationsbeziehungen.
